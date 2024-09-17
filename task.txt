@@ -1,0 +1,21 @@
+[ {task_name:"Sum of numbers",
+    date: "2023-10-20",
+    course_name:"FSD",
+    status: "Completed"},
+
+    {task_name:"TODO List",
+    date: "2023-10-18",
+    course_name:"FSD",
+    status: "Completed"},
+
+    {task_name:"Calculator",
+    date: "2023-12-25",
+    course_name:"Python",
+    status: "Pending"},
+
+    {task_name:"Event Web page",
+    date: "2023-10-26",
+    course_name:"Design_Api",
+    status: "Pending"},    
+    
+]

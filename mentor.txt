@@ -1,0 +1,24 @@
+[ {
+    mentor1:"Mr.A",
+    course_name:"FSD",
+    mentees_no:25
+}, 
+
+{
+    mentor2:"Mr.B",
+    course_name:"Python",
+    mentees_no:12
+},
+
+{
+    mentor1:"Mr.C",
+    course_name:"AWS",
+    mentees_no:20
+},
+
+{
+    mentor1:"Mr.D",
+    course_name:"UI",
+    mentees_no:8
+}
+]

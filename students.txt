@@ -1,0 +1,24 @@
+[{
+    stu1: "Mr.vineet",
+    course_name:"FSD",
+    placement_test:"yes"
+}, 
+
+{
+    stu1: "Mr.Harsh",
+    course_name:"Java",
+    placement_test:"No"
+},
+
+{
+    stu1: "Mr.Soniya",
+    course_name:"AWS",
+    placement_test:"yes"
+},
+
+{
+    stu1: "Mr.Ankul",
+    course_name:"Testing",
+    placement_test:"no"
+},
+]

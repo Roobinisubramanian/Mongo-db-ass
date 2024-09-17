@@ -1,0 +1,25 @@
+[ { user1:"Mr.A",
+    topic_name: "React",
+    date: "2020-10-20",
+    attendence:"absent",
+    problems_solved: 10},
+    
+    {user1:"Mr.B",
+    topic_name: "Mongo",
+    date: "2020-11-15",
+    attendence:"Present",
+    problems_solved: 20},
+    
+    {user1:"Mr.D",
+    topic_name: "Javascript"
+    date: "2020-10-28",
+    attendence:"Present",
+    problems_solved: 0}.
+    
+    {user1:"Mr.C",
+    topic_name: "SQL"
+    date: "2020-9-16",
+    attendence:"absent",
+    problems_solved: 0}
+    
+    ]
